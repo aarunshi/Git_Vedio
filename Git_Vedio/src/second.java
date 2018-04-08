@@ -6,6 +6,7 @@ public class second {
 		System.out.println("in branch1 with conflict");
 		
 		System.out.println("third337");
+		System.out.println("third337");
 	}
 
 
