@@ -5,7 +5,11 @@ public class second {
 
 		System.out.println("hi new");
 		System.out.println("in branch1 with conflict");
+<<<<<<< HEAD
 
+=======
+		System.out.println("third");
+>>>>>>> refs/heads/Branch1
 	}
 
 
