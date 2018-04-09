@@ -1,10 +1,9 @@
 
 public class second {
-	public static void main(String args[])
+	public  void secmethod()
 	{
-		System.out.println("hi new");
-		System.out.println("in branch1 with conflict");
-		System.out.println("third337");
+		System.out.println("in branch 2 second");
+		
 	}
 
 
