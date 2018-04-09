@@ -1,6 +1,6 @@
 
 public class second {
-	public static void main(String args[])
+	public secondmethod()
 	{
 		System.out.println("hi new");
 		System.out.println("in branch1 with conflict");
