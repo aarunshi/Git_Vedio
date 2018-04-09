@@ -6,6 +6,8 @@ public class first {
 		System.out.println("in branch1");
 		second sc = new second();
 		sc.secondmethod;
+		third th = new third();
+		th.thirdmethod();
 	}
 
 }
