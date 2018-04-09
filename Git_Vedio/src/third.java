@@ -1,9 +1,9 @@
 
 public class third {
 
-	public static void main(String[] args) {
+	public  void thirdmethod() {
 		// TODO Auto-generated method stub
-System.out.println("3");
+System.out.println("in branch1 third");
 	}
 
 }
