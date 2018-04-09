@@ -1,12 +1,9 @@
 
 public class second {
-	public static void main(String args[])
+	public void secondmethod()
 	{
-		System.out.println("hi new");
-		System.out.println("in branch1 with conflict");
+		System.out.println("in branch1 method second");
 		
-		System.out.println("third337");
-		System.out.println("third337");
 	}
 
 
